@@ -57,6 +57,7 @@ The analysis focuses on vehicles manufactured from 1995 onwards and applies data
 *Pricing differences across market segments*
 
 ![MSRP by Vehicle Size](visuals/msrp_by_vehicle_size.png)
+*Note: A logarithmic scale is used to handle extreme price outliers, while axis labels are formatted in USD for better interpretability.*
 
 ---
 
