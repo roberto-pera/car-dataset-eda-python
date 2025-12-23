@@ -75,15 +75,15 @@ The analysis focuses on vehicles manufactured from 1995 onwards and applies data
 - [requirements.txt](requirements.txt)
 
 - **data/**
-  - [car_data.csv](car_data.csv)
+  - [car_data.csv](data/car_data.csv)
 
 - **notebooks/**
-  - [car_analysis.ipynb](car_analysis.ipynb)
+  - [car_analysis.ipynb](notebooks/car_analysis.ipynb)
 
 - **visuals/**
-  - [hp_vs_msrp.png](hp_vs_msrp.png)
-  - [msrp_by_vehicle_size.png](msrp_by_vehicle_size.png)
-  - [msrp_by_drivetrain.png](msrp_by_drivetrain.png)
+  - [hp_vs_msrp.png](visuals/hp_vs_msrp.png)
+  - [msrp_by_vehicle_size.png](visuals/msrp_by_vehicle_size.png)
+  - [msrp_by_drivetrain.png](visuals/msrp_by_drivetrain.png)
 
 ---
 
